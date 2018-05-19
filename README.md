@@ -1,18 +1,7 @@
-# Complex Word Identification (CWI) Shared Task 2018 - Teaching
+# Complex Word Identification (CWI) Shared Task 2018
 
-This git repository contains a few utilities to support students on the COM4513 and COM6513 modules at the University of Sheffield attempt the Complex Word Identification Shared Task 2018.
+On the basis of given datasets and utilities, this git repository contains imporved system to attempt the Complex Word Identification Shared Task 2018.
 
-The task consists of predicting which words could be **difficult** and which could be *easy* for a non-native speaker, e.g.:
-
-> "Both China and the Philippines **flexed** their *muscles* on Monday."
-
-For details of the task, see [CWI Shared Task 2018](https://sites.google.com/view/cwisharedtask2018/)
-
-For this class project, we will be tackling the **binary classification task** for the **monolingual English** and **monolingual Spanish** tracks.
-
-We provide the official training, development and test splits of the datasets for both languages.
-
-You will have to use the development data to evaluate your approach's performance and suitability during development. The sentences in this subset are disjoint from (i.e. do not appear in) the training data. The test data will not be released until week 10.
 
 
 ## Questions/Issues
